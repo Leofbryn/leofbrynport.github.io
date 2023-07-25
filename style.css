@@ -13,7 +13,7 @@ nav {
   justify-content: space-around;
   height: 80px;
   align-items: center;
-  background-image: url(img/HERO\ BG.jpg);
+  background-image: url(img/navbar\ bg.jpg);
 }
 
 nav ul {
@@ -150,7 +150,7 @@ img {
 /* Hamburger Animation */
 
 body {
-  background-image: url(img/HERO\ BG.jpg);
+  background-image: url(img/HERO\ BG\ 2.jpg);
   margin: 0;
   max-height: 100vh;
   overflow-x: hidden;
